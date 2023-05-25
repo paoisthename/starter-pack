@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 const Navigation = () => (
     <nav className="flex items-center">
